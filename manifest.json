@@ -1,0 +1,11 @@
+{
+    "name": "ambient-effects-mod",
+    "displayName": "✨ 环境特效 (自定义版)",
+    "version": "2.0.0",
+    "description": "动态背景特效，支持导入自定义图片/视频",
+    "author": "特效美化",
+    "license": "MIT",
+    "type": "extension",
+    "js": "index.js",
+    "css": "style.css"
+}
